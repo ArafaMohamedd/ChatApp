@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026648952458",
+    "project_id": "chatnew-d42e2",
+    "storage_bucket": "chatnew-d42e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026648952458:android:a118dbdd707d910f362773",
+        "android_client_info": {
+          "package_name": "com.example.chatnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnnmnEJK1XEi0GQCG20ZxDvS_d2ongxDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
