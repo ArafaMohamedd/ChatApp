@@ -56,16 +56,16 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyDnnmnEJK1XEi0GQCG20ZxDvS_d2ongxDU',
     appId: '1:1026648952458:android:a118dbdd707d910f362773',
     messagingSenderId: '1026648952458',
-    projectId: 'chatnew-d42e2',
-    storageBucket: 'chatnew-d42e2.appspot.com',
+    projectId: 'chatnew',
+    storageBucket: 'chatnew.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBoXMR7QsG-lm9HK2N0iPayWJcI0zdM8qo',
     appId: '1:1026648952458:ios:0f2d3126847a2010362773',
     messagingSenderId: '1026648952458',
-    projectId: 'chatnew-d42e2',
-    storageBucket: 'chatnew-d42e2.appspot.com',
+    projectId: 'chatnew',
+    storageBucket: 'chatnew.firebasestorage.app',
     iosBundleId: 'com.example.chatnew',
   );
 
